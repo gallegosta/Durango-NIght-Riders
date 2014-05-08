@@ -13,3 +13,6 @@ nav{
 	background-color: #a2a3a2;
 	text-align: center;
 }
+#nav_bar li{
+	display: inline;
+}
