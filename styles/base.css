@@ -16,3 +16,16 @@ nav{
 #nav_bar li{
 	display: inline;
 }
+#nav_bar a{
+	padding: 2em 2em;
+	color: black;
+	font-weight: bold;
+	text-decoration: none;
+	letter-spacing: 2px;
+}
+h1{
+	color: black;
+	padding-bottom: .1em;
+	margin-top:31px;
+	margin-bottom:31px;
+}
