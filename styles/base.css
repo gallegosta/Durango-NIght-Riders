@@ -1,6 +1,6 @@
 header{
 	border-bottom: 3px solid #9cb2a3;	
-	border-top: 5px solid #9cb2a3;
+	border-top: 5px solid #9CB2A3;
 	background-color: #fffda2;
 }
 nav{
@@ -10,18 +10,18 @@ nav{
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
-	background-color: #a2a3a2;
+	background-color: #8f9ab3;
 	text-align: center;
 }
 #nav_bar li{
 	display: inline;
 }
 #nav_bar a{
-	padding: 2em 2em;
+	padding: 1em 1em;
 	color: black;
 	font-weight: bold;
 	text-decoration: none;
-	letter-spacing: 2px;
+	letter-spacing: 3px;
 }
 h1{
 	color: black;
