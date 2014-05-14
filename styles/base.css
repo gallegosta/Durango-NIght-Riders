@@ -29,3 +29,6 @@ h1{
 	margin-top:31px;
 	margin-bottom:31px;
 }
+#title_left{
+	border-radius: 20px 20px 0px 0px;
+}
