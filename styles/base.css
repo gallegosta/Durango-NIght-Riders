@@ -1,7 +1,7 @@
 header{
-	border-bottom: 3px solid #9cb2a3;	
-	border-top: 5px solid #9CB2A3;
-	background-color: #fffda2;
+	border-bottom: 3px solid;
+	border-top: 5px solid;
+	background-color: #9ba897;
 }
 nav{
 	width: 98%;
@@ -29,6 +29,10 @@ h1{
 	margin-top:31px;
 	margin-bottom:31px;
 }
+body{
+	font-family: Arial, Helvetica, sans-serif;
+	background-color:#;
+	
 #title_left{
 	border-radius: 0px 0px 0px 0px;
 }
