@@ -31,10 +31,13 @@ h1{
 	margin-bottom:31px;
 }
 body{
-	font-family: Arial, Helvetica, sans-serif;
-	background-color:#;
+	font-family: lucida_granderegular;
 	border-radius:20px 20px 0px 0px; 
-	
+	color: #333333;
+	line-height: 20px;
+	font-size: 20px;
+	background: #fff url(../img/top-bdy-bg.jpg) repeat-x 51% -160px;
+}	
 #title_left{
 	border-radius: 0px 0px 20px 20px;
 }
@@ -57,7 +60,12 @@ footer{
 	border-radius: 10px 10px 10px 10px;
 	clear: left;
 }
-h3{
-	margin-top: .5em;
-	margin-bottom: 10em;
+html{
+	display: block;
 }
+.container{
+	width: 960px;
+}
+.container{
+	margin-right: auto;
+	margin-left: auto;
