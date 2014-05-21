@@ -31,12 +31,12 @@ h1{
 	margin-bottom:31px;
 }
 body{
-	font-family: lucida_granderegular;
+	font-family: Arial, Helvetica, sans-serif;
 	border-radius:20px 20px 0px 0px; 
 	color: #333333;
 	line-height: 20px;
 	font-size: 20px;
-	background: #fff url(../img/top-bdy-bg.jpg) repeat-x 51% -160px;
+	background-image:url="images/wood.jpg"
 }	
 #title_left{
 	border-radius: 0px 0px 20px 20px;
