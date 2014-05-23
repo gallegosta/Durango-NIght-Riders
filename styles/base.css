@@ -1,7 +1,6 @@
 header{
 	border-bottom: 3px solid;
 	border-top: 5px solid;
-	background-color: #9ba897;
 	border-radius: 20px 20px 0px 0px;
 }
 nav{
@@ -36,7 +35,12 @@ body{
 	color: #333333;
 	line-height: 20px;
 	font-size: 20px;
+<<<<<<< HEAD
 	
+=======
+	background-image:url ("images/woodpanel.jpg")
+	background-repeat:no-repeat;
+>>>>>>> 37615c4f21330138965624b2b2e21c5c2bea9a41
 }	
 #title_left{
 	border-radius: 0px 0px 20px 20px;
