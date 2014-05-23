@@ -36,7 +36,7 @@ body{
 	color: #333333;
 	line-height: 20px;
 	font-size: 20px;
-	background-image:url="images/wood.jpg"
+	
 }	
 #title_left{
 	border-radius: 0px 0px 20px 20px;
@@ -69,3 +69,9 @@ html{
 .container{
 	margin-right: auto;
 	margin-left: auto;
+}
+.column2{
+	
+html{
+	background: url("../images/woodbackground.jpg") no-repeat fixed center;
+}
