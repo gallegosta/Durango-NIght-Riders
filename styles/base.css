@@ -8,15 +8,18 @@ nav{
 #nav_bar ul{
 	list-style: none;
 	padding: .5em 0;
-	background-color: #8f9ab3;
+	background-color: #70747b;
 	text-align: center;
+	height: 40px;
+	border-top: dotted white;
+	
 }
 #nav_bar li{
 	display: inline;
 }
 #nav_bar a{
 	padding: 1em 1em;
-	color: black;
+	color: white;
 	font-weight: bold;
 	text-decoration: none;
 	letter-spacing: 3px;
@@ -46,15 +49,10 @@ body{
 	padding: 20px 20px 20px 20px;
 	border-radius: 20px 20px 20px 20px;
 }
-}
-#contact_info{
-	text-align:center;
-	padding: 25px 25px;
-}
+
 footer{
 	border: 1px;
-	background-color: #8f9ab3;
-	color: black;
+	color: #4d6781;
 	border-radius: 10px 10px 10px 10px;
 	clear: left;
 }
@@ -67,8 +65,7 @@ html{
 .container{
 	margin-right: auto;
 	margin-left: auto;
-}
-.column2{
+
 	
 html{
 	background: url("../images/woodbackground.jpg") no-repeat fixed center;
