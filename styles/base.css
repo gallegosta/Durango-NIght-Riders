@@ -35,14 +35,13 @@ body{
 	border-radius:20px 20px 0px 0px; 
 	line-height: 20px;
 	font-size: 20px;
-<<<<<<< HEAD
+
 	background:url ("images/originalwoodpanel.jpg") repeat-x scroll 51% -160px #FFFFFF;
-=======
+
 	background-image:url ("images/woodpanel.jpg")
 	background-repeat:no-repeat;
-
 }	
->>>>>>> 7de41ce227829a6ee955693f45960b483cc190dc
+
 #title_left{
 	border-radius: 0px 0px 20px 20px;
 }
@@ -69,11 +68,9 @@ html{
 .container{
 	margin-right: auto;
 	margin-left: auto;
-<<<<<<< HEAD
-=======
+}
 
 	
 html{
 	background: url("../images/woodbackground.jpg") no-repeat fixed center;
->>>>>>> 7de41ce227829a6ee955693f45960b483cc190dc
 }
