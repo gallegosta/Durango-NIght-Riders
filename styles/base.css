@@ -70,11 +70,12 @@ html{
 	padding; 1em;
 }
 form{
-	margin: 0 auto;
+	margin: 1 auto;
 	width: 400px;
-	padding: 4em;
+	padding: 3em;
 	border: 2px solid;
 	border-radius: 3em;
+	background: #FFFFFF;
 }
 form div + div{
 	margin right: 1em;
@@ -99,3 +100,10 @@ input textarea{
 button{
 	margin-left: .5em;
 }
+#topdata{
+	margin-top: 20px;
+	float: right;
+	text-align: right;
+	margin-right: 10px;
+}
+.left-column: 
