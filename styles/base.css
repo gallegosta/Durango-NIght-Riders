@@ -35,11 +35,6 @@ body{
 	border-radius:20px 20px 0px 0px; 
 	line-height: 20px;
 	font-size: 20px;
-
-	background:url ("images/originalwoodpanel.jpg") repeat-x scroll 51% -160px #FFFFFF;
-
-	background-image:url ("images/woodpanel.jpg")
-	background-repeat:no-repeat;
 }	
 
 #title_left{
@@ -70,9 +65,7 @@ html{
 	margin-left: auto;
 }
 	
-html{
-	background: url("../images/woodbackground.jpg") no-repeat fixed center;
-}
+
 #contact_info{
 	padding; 1em;
 }
