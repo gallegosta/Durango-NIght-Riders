@@ -116,3 +116,16 @@ button{
 li{
 	line-height: 20px;
 }
+.form-search{
+	text-align:center;
+	padding-bottom: 10px;
+	margin: 5px 5px;
+	background: white;
+	border-radius: 0px 0px 0px 0px;
+	padding: 10px 5px 10px 5px;
+}
+.column1{
+	text-align: right;
+	margin-top: 20px;
+	
+}
