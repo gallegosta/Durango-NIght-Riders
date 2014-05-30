@@ -71,9 +71,15 @@ html{
 }
 form{
 	margin: 0 auto;
+<<<<<<< HEAD
 	padding: 4em;
+=======
+	width: 400px;
+	padding: 10px 5px 10px 19px;
+>>>>>>> 62b14a51f6f56f60ceee8eec461310ce5e53b61d
 	border: 2px solid;
 	border-radius: 3em;
+	background: #FFFFFF;
 }
 form div + div{
 	margin right: 1em;
@@ -82,22 +88,23 @@ form div + div{
 
 label{
 	display: inline-block:
-	width: 100px;
+	width: 150px;
 	text-align: right;
 }
 input textarea{
 	font: 1em sans-serif;
-	width: 300px;
+	width: 400px;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-	border: 1px solid;
+	border: 2px solid;
 }
 .button{
-	padding-left: 90px;
+	padding-left: 109px;
 }
 button{
 	margin-left: .5em;
 }
+<<<<<<< HEAD
 .ipad-box9 label{
 	color: #FFFFFF;
 	float: left;
@@ -205,3 +212,35 @@ button, input, select, textarea{
 .mCont{
 	background: #555555
 }
+=======
+#topdata{
+	margin-top: 20px;
+	float: right;
+	text-align: right;
+	margin-right: 10px;
+}
+.widget-inner ul li{
+	width: 100%
+	font-size:14px;
+	display:  inline-block;
+	font-family:'BitterBold';
+	margin: 3px 0;
+
+}
+li{
+	line-height: 20px;
+}
+.form-search{
+	text-align:center;
+	padding-bottom: 10px;
+	margin: 5px 5px;
+	background: white;
+	border-radius: 0px 0px 0px 0px;
+	padding: 10px 5px 10px 5px;
+}
+.column1{
+	text-align: right;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+>>>>>>> 62b14a51f6f56f60ceee8eec461310ce5e53b61d
